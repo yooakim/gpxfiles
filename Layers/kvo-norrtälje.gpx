@@ -5,18 +5,13 @@
     <link href="https://www.norrtalje.se/globalassets/raddningstjansten/handlingsprogram-for-skydd-mot-olyckor.pdf">
       <text>Översikt över kommunala vattenområden i Norrtälje kommun</text>
     </link>
-    <time>2022-03-16T22:58:43Z</time>
   </metadata>
   <trk>
     <name>Grisslehamn</name>
     <trkseg>
       <trkpt lat="60.098501" lon="18.822059">
-        <ele>4.46</ele>
-        <time>2022-03-16T18:37:26Z</time>
       </trkpt>
       <trkpt lat="60.095847" lon="18.816313">
-        <ele>4.94</ele>
-        <time>2022-03-16T18:37:31Z</time>
       </trkpt>
     </trkseg>
   </trk>
@@ -24,10 +19,8 @@
     <name>Hallstavik</name>
     <trkseg>
       <trkpt lat="60.071985" lon="18.584460">
-        <time>2022-03-16T18:37:26Z</time>
       </trkpt>
       <trkpt lat="60.071878" lon="18.589537">
-        <time>2022-03-16T18:37:31Z</time>
       </trkpt>
     </trkseg>
   </trk>
