@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Oregon 400t" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="https://www.norrtalje.se/globalassets/raddningstjansten/handlingsprogram-for-skydd-mot-olyckor.pdf">
+      <text>Översikt över kommunala vattenområden i Norrtälje kommun</text>
+    </link>
+    <time>2022-03-16T22:58:43Z</time>
+  </metadata>
+  <trk>
+    <name>Grisslehamn</name>
+    <trkseg>
+      <trkpt lat="60.098501" lon="18.822059">
+        <ele>4.46</ele>
+        <time>2022-03-16T18:37:26Z</time>
+      </trkpt>
+      <trkpt lat="60.095847" lon="18.816313">
+        <ele>4.94</ele>
+        <time>2022-03-16T18:37:31Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Hallstavik</name>
+    <trkseg>
+      <trkpt lat="60.071985" lon="18.584460">
+        <time>2022-03-16T18:37:26Z</time>
+      </trkpt>
+      <trkpt lat="60.071878" lon="18.589537">
+        <time>2022-03-16T18:37:31Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Kapellskärs hamn</name>
+    <trkseg>
+      <trkpt lat="59.724069" lon="19.067044">
+      </trkpt>
+      <trkpt lat="59.720139" lon="19.076976">
+      </trkpt>
+      <trkpt lat="59.718049" lon="19.070725">
+      </trkpt>
+      <trkpt lat="59.717696" lon="19.074070">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
